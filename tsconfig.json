@@ -7,12 +7,9 @@
             "es2017",
             "dom",
         ],
-        
-        "types": [
-            "node"
-        ],
+
         "module": "commonjs",
         "experimentalDecorators": true,
-        "skipLibCheck": true
+        "skipLibCheck": true,
     }
 }
